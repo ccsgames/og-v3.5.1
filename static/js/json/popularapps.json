@@ -1,0 +1,22 @@
+[
+    {
+      "title": "about:blank Embedder",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/aboutblank.webp",
+      "link": "/main/embedder"
+    },
+    {
+      "title": "Holy Unblocker",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/hbimg.png",
+      "link": "/main/redirecthb"
+    },
+    {
+      "title": "Chatroom",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/chat.png",
+      "link": "/redirect"
+    },
+    {
+      "title": "Discord",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/discordimg.webp",
+      "link": "/main/d"
+    }
+  ]

@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Ultraviolet Proxy",
+        "image": "https://raw.githubusercontent.com/OutRed/outred-site/main/img/uv.png",
+        "link": "https://mytutor.outred.org"
+    },
+    {
+        "title": "Wombgnix Proxy",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/womgnix.png",
+        "link": "/main/redirectwb"
+    },
+    {
+        "title": "Reddit",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/reddit-logo.png",
+        "link": "https://uv.outred.org/service/hvtrs8%2F-wuw%2Crgdfiv.aoo%2F%3Drft%3F62762"
+    },
+    {
+        "title": "Spotify",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/spotify.svg.png",
+        "link": "https://uv.outred.org/service/hvtrs8%2F-wuw%2Csrovidy%2Ccmm-uq%2Fdrge-"
+    },
+    {
+        "title": "YouTube",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/yt.svg.png",
+        "link": "https://uv.outred.org/service/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-"
+    },
+    {
+        "title": "about:blank Embedder",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/aboutblank.webp",
+        "link": "/main/embedder"
+    },
+    {
+        "title": "Private Chatroom",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/chat.png",
+        "link": "/main/redirectchatroom"
+    },
+    {
+        "title": "Meme SFX",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/sfximg.jpg",
+        "link": "/main/sfx"
+    }
+]
